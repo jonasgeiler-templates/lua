@@ -7,3 +7,15 @@
 .idea/
 .vscode/*
 !.vscode/extensions.json
+
+# LuaRocks
+.luarocks/
+lua_modules/
+lua/
+luarocks/
+*.src.rock
+*.tar.gz
+*.zip
+
+# Temporary Files
+/test.lua
