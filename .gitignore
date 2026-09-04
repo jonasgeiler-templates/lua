@@ -20,4 +20,5 @@ luarocks/
 *.zip
 
 # Temporary Files
-/test.lua
+scratch.*
+scribble.*
